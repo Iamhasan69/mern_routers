@@ -1,0 +1,14 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "this is small server",
+  "main": "./server/server.js",
+  "scripts": {
+    "start":"nodemon server.js"
+  },
+  "author": "tufail",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
